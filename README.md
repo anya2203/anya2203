@@ -94,7 +94,7 @@ AI/ML undergraduate with hands-on experience across machine learning, deep learn
 
 ## Featured Projects
 
-- **ReconGuard — AI Finance Controller**
+- **ReconGuard - AI Finance Controller**
   - Deterministic-first financial reconciliation system with a policy-gated, read-only AI investigation layer.
   - Built with Python, FastAPI, Gemini, Pydantic, React, and custom Tool Calling.
   - Implemented 12-branch policy engine controlling AI participation and 8 operational tools with an append-only audit trail.
@@ -105,7 +105,7 @@ AI/ML undergraduate with hands-on experience across machine learning, deep learn
   - Built with Python, FastAPI, SQLAlchemy, SQLite, Pydantic, and Docker.
   - Features Base62 URL encoding with collision detection and interactive OpenAPI/Swagger documentation.
 
-- **SHEild — Women-Centric Hate Speech Detection**
+- **SHEild - Women-Centric Hate Speech Detection**
   - Hybrid NLP + ML system for context-aware hate speech detection using Python, SBERT, CatBoost, and Streamlit.
   - SBERT contextual embeddings combined with linguistic features and dynamic thresholding for obfuscated text.
   - Includes real-time explainable prediction interface.
@@ -120,8 +120,8 @@ AI/ML undergraduate with hands-on experience across machine learning, deep learn
 
 ## Experience & Certifications
 
-- **Walmart Global Tech:** Advanced Software Engineering Job Simulation (Forage, 2026) — *software architecture, database design, UML modeling, and backend problem solving.*
-- **Deloitte:** Data Analytics Virtual Experience Program (Forage, 2026) — *practical data analytics, forensic technology, EDA, and visualization.*
+- **Walmart Global Tech:** Advanced Software Engineering Job Simulation (Forage, 2026) - *software architecture, database design, UML modeling, and backend problem solving.*
+- **Deloitte:** Data Analytics Virtual Experience Program (Forage, 2026) - *practical data analytics, forensic technology, EDA, and visualization.*
 - **Oracle:** Agentic AI Certified Foundations Associate (2026)
 
 ---
