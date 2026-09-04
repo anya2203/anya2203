@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ananyamanoharan.2027@gmail.com)
 
 B.E., Artificial Intelligence & Machine Learning · BMS College of Engineering, Bengaluru · Class of 2027
-Email : ananyamanoharan.2027@gmail.com
+
 </div>
 
 ---
